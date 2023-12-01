@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm KISHORE K </h1>
+<h1 align="center">Hi 👋, I'm KISHORE  </h1>
 <h3 align="center">A passionate full stack web developer and Associatie software developer </h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e478mw92rlwoid3vuc5fkm10aqcn71ne9fh9wtxca6u&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
